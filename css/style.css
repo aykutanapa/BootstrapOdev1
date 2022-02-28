@@ -1,0 +1,25 @@
+:root
+
+.bg {
+    background-color: #96CEB4;
+}
+
+.text-color {
+    color: #FFEEAD;
+}
+
+.jumbotron {
+    text-align: center;
+
+}
+
+.block-color {
+    background-color: #FFAD60;
+}
+
+.btn-color {
+    color: #FFEEAD !important;
+    background-color: #FFAD60 !important;
+    border-color: #FFEEAD !important;
+    
+}
