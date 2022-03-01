@@ -1,20 +1,25 @@
-:root
 
 .bg {
-    background-color: #96CEB4;
-}
+    background: rgb(202,184,255);
+    background: linear-gradient(90deg, rgba(202,184,255,1) 0%, rgba(150,206,180,1) 5%, rgba(150,206,180,1) 95%, rgba(202,184,255,1) 100%);}
 
 .text-color {
     color: #FFEEAD;
 }
 
-.jumbotron {
-    text-align: center;
-
-}
-
 .block-color {
     background-color: #FFAD60;
+}
+
+.header-color {
+    background: rgb(202,184,255);
+    background: linear-gradient(90deg, rgba(202,184,255,1) 0%, rgba(255,173,96,1) 5%, rgba(255,173,96,1) 95%, rgba(202,184,255,1) 100%);
+}
+
+footer {
+    background: rgb(202,184,255);
+    background: linear-gradient(90deg, rgba(202,184,255,1) 0%, rgba(132,182,159,1) 5%, rgba(132,182,159,1) 95%, rgba(202,184,255,1) 100%);
+    
 }
 
 .btn-color {
@@ -22,4 +27,8 @@
     background-color: #FFAD60 !important;
     border-color: #FFEEAD !important;
     
+}
+
+body {
+    background-color: #CAB8FF !important;
 }
